@@ -1,0 +1,6 @@
+flask
+pymongo
+pdfminer.six
+python-docx
+openai
+regex

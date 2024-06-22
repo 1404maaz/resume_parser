@@ -1,0 +1,55 @@
+                                             Maaz Ahmad Farooqui
+                                                                    Delhi, India
+      Ħ +916204645751 |   ć maazahfarooqui@gmail.com | ^ https://github.com/1404maaz |    ] https://www.linkedin.com/in/maaz-farooqui-52b333262/
+
+
+
+Personal Profile
+Energetic and motivated Computer Science student with a passion for technology and a strong desire to contribute to innovative projects. Seeking
+opportunities to apply my theoretical knowledge and practical skills in a dynamic and collaborative environment.
+
+
+Education
+Galgotias College of Engineering and Technology                                                                                 Greater Noida, India
+B.Tech in Artificial Intelligence and Machine Learning                                                                                 2025 ‑ Expected
+• CGPA : 8.56
+• Class Rank : 1st
+Lala Lajpat Rai Sr. Sec. School                                                                                                         Ranchi, India
+12th Standard, CBSE                                                                                                                                2020
+• Appointed as the Head Boy of School
+• Percentage: 87.4
+Lala Lajpat Rai Sr. Sec. School                                                                                                         Ranchi, India
+10th Standard, CBSE                                                                                                                                2018
+• Got an excellence award for perfomance
+• Percentage: 90
+
+
+Skills
+Programming         Python (Pandas, NumPy, Scikit‑learn. etc.), C/C++, HTML/CSS, JavaScript, SQL, MERN stack.
+ Coursework         Database Management System , Object Oriented Programming , Data Structures and Algorithms , Operating System
+   Soft Skills      Time Management, Teamwork, Problem‑solving, Documentation, Engaging Presentation, Communication.
+
+
+Projects
+SPAM MAIL PREDICTION MODEL                                                                                                                         Link
+Description:‑                                                                                                                             Code
+• The Spam Mail Prediction Model is an innovative project designed to combat the issue of unwanted emails by developing a robust spam mail
+  classifier. Leveraging the power of Logistic Regression, this model aims to effectively distinguish between spam and legitimate emails, con‑
+  tributing to enhanced email filtering systems. The development environment chosen for this project is Google Colab, ensuring seamless col‑
+  laboration and access to powerful computing resources.
+DIABETES PREDICTION MODEL                                                                                                                          Link
+Description:‑                                                                                                                             Code
+• The Diabetes Prediction Model is a focused initiative aimed at developing a precise and reliable model for predicting diabetes occurrences.
+  Utilizing the SVM (Support Vector Machine) classifier, the project leverages advanced machine learning techniques. Google Colab serves as the
+  primary development platform, offering collaborative capabilities and access to powerful computing resources. Key dependencies, including
+  NumPy, Pandas, and scikit‑learn, form the foundation for effective data manipulation, analysis, and machine learning implementation.
+TWITTER CLONE                                                                                                                                      Link
+Description:‑                                                                                                                                  Code
+• Twitter Clone is a project developed using Node.js, Socket.IO, and MongoDB. It aims to replicate the functionality of Twitter, providing features
+  such as posting, real‑time chat, notifications, and search.
+
+
+Languages
+English      Professional proficiency
+  Hindi      Native proficiency
+
